@@ -91,7 +91,7 @@ Este projeto esta licenciado sob a Licenca MIT. Consulte o arquivo LICENSE para 
 
 ## ✍️ Autor
 
-**Gabriel Kelle** - [@galeki2018-hash](https://github.com/galeki2018-hash)
+**Alessandro** - [@galeki2018-hash](https://github.com/galeki2018-hash)
 
 ---
 
